@@ -1,0 +1,4 @@
+2026-04-23 INFO User login from 192.168.1.10
+2026-04-23 ERROR Failed login attempt from 192.168.1.100
+2026-04-23 WARNING Unauthorized access from 10.0.0.66
+2026-04-23 INFO Normal operation
