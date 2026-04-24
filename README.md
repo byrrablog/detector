@@ -47,11 +47,11 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/tuusuario/log-threat-detector.git
-cd log-threat-detector
-```bash
-python detector.py
+cd log-threat-detector ```
 ```
-
+``` bash
+python detector.py```
+```
 Input:
 
 ```text
